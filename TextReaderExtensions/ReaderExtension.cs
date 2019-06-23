@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 
 namespace TextReaderExtensions
 {
-    static class ReaderExtension
+    public static class ReaderExtension
     {
         /// <summary>
         /// Returns value indicating whether the end of line has been reached.
